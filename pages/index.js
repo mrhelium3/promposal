@@ -162,7 +162,7 @@ export default function Home()
               Name of Partner
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Aidan Ouckama
+              Aidan Ouckam
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               Location
